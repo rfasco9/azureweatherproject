@@ -1,0 +1,5 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/32a12aca-ddf5-47de-9c84-1d13011cc126/resourceGroups/testweatherappfasco/providers/Microsoft.Web/sites/myweatherfasco",
+    "appService.deploySubpath": ".",
+    "appService.showBuildDuringDeployPrompt": false
+}
